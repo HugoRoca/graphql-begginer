@@ -1,0 +1,5 @@
+type Query {
+  hello: String!
+  hello2(name: String!): String
+  hello3: String!
+}
